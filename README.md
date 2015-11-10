@@ -1,6 +1,6 @@
 # Workout Logger
 
-A small app that helps me log workouts.
+A small app that helps log workouts.
 
 ## Prerequisites
 
